@@ -1,0 +1,12 @@
+North south=centre
+South north=centre
+West east=centre
+East west=centre
+centre north=North south=South east=East west=West
+
+North city1 south=centre city west=west city1
+centre city north=North city1
+west city1 east=North city1
+
+north= south=east=
+east= north=north=
